@@ -1,0 +1,9 @@
+.main-div {
+  display: flex;
+}
+.left-div {
+  flex: 1;
+}
+.right_div {
+  flex: 1;
+}
